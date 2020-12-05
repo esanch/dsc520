@@ -1,6 +1,6 @@
 # Assignment: ASSIGNMENT 1
 # Name: Earl, Elizabeth
-# Date: 2020-11-30
+# Date: 2020-12-04
 
 ## Create a numeric vector with the values of 3, 2, 1 using the `c()` function
 ## Assign the value to a variable named `num_vector`
