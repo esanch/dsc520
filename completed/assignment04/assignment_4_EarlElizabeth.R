@@ -1,6 +1,6 @@
 # Assignment: ASSIGNMENT 4
 # Name: Earl, Elizabeth
-# Date: 2021-01-
+# Date: 2020-12-20
 
 ## Load the ggplot2 package
 library(ggplot2)
