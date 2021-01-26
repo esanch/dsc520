@@ -1,6 +1,6 @@
-# Assignment: ASSIGNMENT 6
+# Assignment: ASSIGNMENT 7
 # Name: Earl, Elizabeth
-# Date: 2021-01-20
+# Date: 2021-01-25
 
 ## Set the working directory to the root of your DSC 520 directory
 setwd("C:/Users/Eearl/OneDrive/Documents/School/520/520Assignments/dsc520-master")
